@@ -1,1 +1,1 @@
-# The-Hirst-Painting-Project
+# The Hirst Painting Project
