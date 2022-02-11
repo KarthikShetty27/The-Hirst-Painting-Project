@@ -6,11 +6,11 @@
 </div>
 <h2>What are we upto ?🤔</h2>
 <p>We are going to create this colourful piece of art which sold for more than half a million pounds (100 random colored dots ) just by using the well-known turtle module present in the python library.</p>
-<h2>Prerequisites 🖍️</h2>
+<h2>Prerequisites 🖋️</h2>
 - Familiar with the <a href="https://docs.python.org/3/library/turtle.html#turtle.dot"> Turtle module</a> (Don't know? Internet is the savior. Trust me it's easy 😉).<br>
-- Installation of the <a href="https://pypi.org/project/colorgram.py/">Colorgram Package</a>  (We need to make our painting as colorful as Damien Hirst's 🌈).<br>
+- Installation of the <a href="https://pypi.org/project/colorgram.py/">Colorgram Package</a>  (We need to make our painting as colorful as Damien Hirst's ).<br>
 - Basic comprehension of the <a href="https://en.wikipedia.org/wiki/RGB_color_model">RGB color system</a> 🧮.
-<h2>Let's Paint ! <img src="https://media3.giphy.com/media/DcJxYde3RQM82PycHJ/giphy.gif?cid=ecf05e47gcgpr29b1rbuk6d7i4ce13m89zhmos352sr16e8b&rid=giphy.gif&ct=s" width = "55"></h2>
+<h2>Let's Paint </h2>
 <h3>Task - 1 🖌️:</h3>
 - We start by downloading a spot painting image, which we use to extract the colors using the colorgram package.<br>
 - We run a for loop that taps into each of the colors, and extracts the red(r), green(g) and blue(b) colors.<br>
