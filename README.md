@@ -43,4 +43,4 @@
 <h2>Things we learnt 🕮️</h2>
 - How amazing the turtle module is! 🐢<br>
 - How expensive contemporary art can be! 😝
-<h3>Thanks for Visiting!</h3>
+
