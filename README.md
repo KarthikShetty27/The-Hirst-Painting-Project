@@ -1,6 +1,5 @@
 # The Hirst Painting Project
 
-<h1>The Hirst Painting Project  🎨 🖌️</h1>
 <p>This is a recreation of <a href="https://en.wikipedia.org/wiki/Damien_Hirst">Damien Hirst's</a> <b>Spot Painting</b> using Python with the help of the Turtle module.</p>
 <div align="center">
 <img src="Images/1.jpeg" width="400" height="350">
