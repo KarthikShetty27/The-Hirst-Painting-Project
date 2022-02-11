@@ -38,7 +38,7 @@
 <div align="center">
 <img src="Images/5.jpeg" width="400" height="350">
 </div>
-<br>
+
 <h4 align="center">Hooray, our painting is ready !<img src="https://media2.giphy.com/media/TFNbcscr9JUUigDzrZ/giphy.gif?cid=ecf05e4706b8ssybfzwnhu3hwlqnljx0thbi23qezkue1y2i&rid=giphy.gif&ct=s" width = "50"></h4>
 <h2>Things we learnt 🕮️</h2>
 - How amazing the turtle module is! 🐢<br>
